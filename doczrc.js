@@ -1,4 +1,7 @@
 export default {
+  base: './',
+  public: '/static',
+  title: 'fuboTV Design System',
   menu: [
     'Welcome',
     { 
