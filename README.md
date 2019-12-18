@@ -1,4 +1,4 @@
-# Docz Styled Components Example
+# Docz
 
 ## Using `create-docz-app`
 
