@@ -13,7 +13,7 @@
   },
   "dependencies": {
     "docz": "^2.3.0-alpha.5",
-    "gatsby": "^2.18.13",
+    "gatsby": "^4.25.7",
     "gatsby-theme-docz": "^2.3.0-alpha.5",
     "prop-types": "^15.7.2",
     "react": "^16.12.0",
